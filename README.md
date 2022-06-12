@@ -34,8 +34,23 @@ Actions:
 
 4. Test
 
-5. Link to depoloyed application:
+5. Link to depoloyed application: https://ajoanbell.github.io/week4_quiz_challenge/
 
-6. Link to github: 
+6. Link to github: https://github.com/AJoanBell/week4_quiz_challenge/
 
 7. Screenshots of application
+
+Starter screen
+<img width="1882" alt="Screen Shot 2022-06-12 at 11 26 48 pm" src="https://user-images.githubusercontent.com/36496885/173235511-39e4bf95-082d-4c0a-8800-41bfff78bd67.png">
+
+Questions example screen
+
+<img width="1876" alt="Screen Shot 2022-06-12 at 11 26 57 pm" src="https://user-images.githubusercontent.com/36496885/173235526-c981f035-ae25-4f52-90e5-a32c58dd3b73.png">
+
+Test complete screen
+
+<img width="1882" alt="Screen Shot 2022-06-12 at 11 27 09 pm" src="https://user-images.githubusercontent.com/36496885/173235535-1d09c66d-6225-4856-bf6c-c80e1fdb3be6.png">
+
+High Score screen
+
+<img width="1894" alt="Screen Shot 2022-06-12 at 11 27 18 pm" src="https://user-images.githubusercontent.com/36496885/173235557-6e7aaab1-ba60-4729-8693-88cf265e8a1c.png">
